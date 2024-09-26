@@ -1,0 +1,47 @@
+# Análise Exploratória de Dados Automatizada em Python
+
+Este projeto fornece uma solução automatizada para a realização de análises exploratórias de dados (EDA) utilizando Python. Com ele, você pode carregar datasets de diferentes fontes, realizar análises descritivas, gerar visualizações gráficas e identificar correlações entre variáveis de forma eficiente.
+
+## Índice
+
+- [Visão Geral](#visão-geral)
+- [Recursos](#recursos)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Visão Geral
+
+A análise exploratória de dados é uma etapa fundamental no processo de ciência de dados, permitindo entender melhor a estrutura, padrões e relações presentes nos dados. Este projeto automatiza esse processo, facilitando a geração de insights iniciais de maneira rápida e eficaz.
+
+## Recursos
+
+- **Carregamento de Dados**: Suporte para carregar arquivos CSV, incluindo aqueles hospedados no Google Drive.
+- **Análise Descritiva**: Exibição das primeiras linhas, informações gerais e estatísticas descritivas.
+- **Visualizações**:
+  - Histograma
+  - Gráfico de Pizza
+  - Gráfico de Linha
+  - Gráfico de Dispersão
+  - Boxplot
+  - Matriz de Correlação
+- **Análise Especializada**: Seção para adicionar análises personalizadas conforme a necessidade.
+
+## Tecnologias Utilizadas
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+- Requests
+
+## Instalação
+
+1. **Clone o repositório**
+
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   cd seu-repositorio
